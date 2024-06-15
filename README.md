@@ -9,3 +9,6 @@
 3- Inicie a aplicação em modo de desenvolvimento:
 
   • npm run start:dev
+
+
+  Link do Github pages: https://lucascovaltchuk.github.io/atividadeExtra/pages/index.html
